@@ -7,7 +7,7 @@ client = Client(account_sid, auth_token)
 
 message = client.messages \
                 .create(
-                     body=" Your Friend Rohan is in Need of your help. Visit here: https://locationmagic.org/locate . And enter this code: a609c7235c19dd779729",
+                     body=" Your Friend Pragya is in Need of your help. Visit here: https://locationmagic.org/locate . And enter this code: a609c7235c19dd779729",
                      from_='+12019037583',
                      to='+919458467120'
                  )
