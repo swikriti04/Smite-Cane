@@ -1,0 +1,1 @@
+0 * * * * cd /usr/local/bin/ && ./locationmagic.sh -locate linux a609c7235c19dd779729
