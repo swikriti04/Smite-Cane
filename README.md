@@ -27,6 +27,7 @@ Also, we are attaching a motor for vibrations so that the detected object will b
 ## 🌟 Features of our product
 
 * Real time Video Stream
+* Robotic Vision
 * Object detection
 * Voice assistance
 * Haptic Feedback
@@ -40,3 +41,7 @@ https://www.jfmpc.com/article.asp?issn=2249-4863;year=2019;volume=8;issue=4;spag
 
 ## 😊Our Impact
 
+* The Person with our cane will get alerted if there is a hurdle ahead. 
+* The Person with our cane will be able to walk freely without any fear of accidents.
+* Our cane will provide speech assistance to the user and guide them the path.
+* In case, the user is deaf our cane will vibrate according to the frequency of Morse Code of the detected hurdles.
